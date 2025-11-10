@@ -34,7 +34,7 @@ Lumo is a MERN-stack application with real-time capabilities:
 | **Configuration** | CORS | Configured to allow secure cross-origin communication between the client and server. |
 
 ---
-### Future Enhancements & Contribution
+### Future Enhancements 
 While this is the initial version, there's significant potential for growth. Future improvements could include:
 
 **1. Direct Messaging (DMs):** Private 1:1 chat functionality.
@@ -44,18 +44,6 @@ While this is the initial version, there's significant potential for growth. Fut
 **3. File Sharing:** Allowing users to upload and share images or documents.
 
 **4. User Roles:** Implementing Admin and standard user roles.
-
-Contributions, issues, and feature requests are welcome!
-
-**1.** Fork the repository.
-
-**2.** Create your Feature Branch (git checkout -b feature/AddDirectMessaging).
-
-**3.** Commit your Changes (git commit -m 'feat: Implemented basic direct messaging feature').
-
-**4.** Push to the Branch (git push origin feature/AddDirectMessaging).
-
-**5.** Open a Pull Request.
 
 ---
 This README provides an overview of LUMO, including the description of tech stack required for it. It aims to be informative for viewers and collaborators referring to this repository.
